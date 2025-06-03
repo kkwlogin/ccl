@@ -1,0 +1,7 @@
+salesforce.com - login 
+k....206998@agentforce.com
+step 1 :settings - setup - object manager - create - custom object - book , student - fields and relastionships - new 
+step 2 :setup - tabs - custom obj tabs new - colors 
+step 3 :setup - app - apps manager - new lightning app -navigation items - books,student,contacts  - system authentication - create 
+                 :::
+steps 4: setups- ...  app launcher - app name - done 
