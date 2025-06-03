@@ -1,0 +1,8 @@
+google app engine download : https://cloud.google.com/appengine
+python version 2.7.9 
+create cc folder
+step 1 : python path "C:\Python27\pythonw.exe"
+step 2 : sdk path "C:\Program Files (x86)\Google\google_appengine"
+step 3 : create new application
+step 4 : path directory to cc folder
+step 5 : run
